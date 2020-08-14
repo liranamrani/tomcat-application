@@ -7,7 +7,7 @@
 <title>First JSP file- Tomcat & GIT</title>
 </head>
 <%@ page import="java.util.Date" %>
-<body>
+<body style="background-color: blanchedalmond;">
 <h3>Hi My Name is: Liran Amrani</h3>
 <h3>My id: 312456734</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
